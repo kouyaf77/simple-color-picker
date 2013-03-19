@@ -7,10 +7,6 @@ Check out the latest version at http://github.com/rachel-carvalho/simple-color-p
 ## Usage
 Just attach the simpleColorPicker to an input text and when it gains focus the color palette appears aligned to its bottom right corner.
 
-### Samples
-
-See them working live at http://rachel-carvalho.github.com/simple-color-picker.
-
 #### Default options
 
     $(document).ready(function() {
